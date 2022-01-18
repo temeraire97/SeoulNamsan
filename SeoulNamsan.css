@@ -1,0 +1,35 @@
+@font-face {
+    font-family: "SeoulNamsan";
+    src: url("SeoulNamsanB.woff2") format("woff2"),
+         url("SeoulNamsanB.woff") format("woff"),
+         url("SeoulNamsanB.otf") format("opentype");
+    font-style: normal;
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: "SeoulNamsan";
+    src: url("SeoulNamsanEB.woff2") format("woff2"),
+         url("SeoulNamsanEB.woff") format("woff"),
+         url("SeoulNamsanEB.otf") format("opentype");
+    font-style: normal;
+    font-weight: 800;
+}
+
+@font-face {
+    font-family: "SeoulNamsan";
+    src: url("SeoulNamsanL.woff2") format("woff2"),
+         url("SeoulNamsanL.woff") format("woff"),
+         url("SeoulNamsanL.otf") format("opentype");
+    font-style: normal;
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: "SeoulNamsan";
+    src: url("SeoulNamsanM.woff2") format("woff2"),
+         url("SeoulNamsanM.woff") format("woff"),
+         url("SeoulNamsanM.otf") format("opentype");
+    font-style: normal;
+    font-weight: 400;
+}
